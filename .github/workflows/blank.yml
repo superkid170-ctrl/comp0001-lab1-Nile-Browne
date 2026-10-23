@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nile Browne - Resume</title>
+</head>
+<body>
+
+<!-- Main Header -->
+<h1>Nile Browne</h1>
+<hr>
+
+<!-- Professional & Personal Summary -->
+<p>Welcome to my professional web portfolio. I am an undergraduate student at <b>The University of the West Indies, Five Islands</b>, pursuing studies in <b>Science, Computing, and Artificial Intelligence</b>.</p>
+
+<p>In addition to my academic pursuits in computer science, I am a dedicated student-athlete who balances high-level competitive basketball with technical discipline and software engineering principles.</p>
+
+<hr>
+
+<!-- Academic Qualifications -->
+<h2>Academic Qualifications</h2>
+<ul>
+<li><b>B.Sc. in Computer Science / Artificial Intelligence (In Progress)</b> - UWI Five Islands</li>
+<li><b>Key Coursework:</b> COMP0001 (Intro to Computing), Logic Circuit Design, Computer Networks, and Web Page Authoring</li>
+</ul>
+
+<!-- Athletic Achievements -->
+<h2>Athletic Achievements & Extracurriculars</h2>
+<ul>
+<li><b>Competitive Basketball Player:</b> Active student-athlete representing regional teams in high-level tournament play.</li>
+<li><b>Regional Tournament Competitor:</b> Participated in the 2026 Caribbean Summer League Basketball Tournament in Jamaica.</li>
+</ul>
+
+<!-- Skills -->
+<h2>Professional & Technical Skills</h2>
+<p><b>Technical Skills:</b> HTML5, Web Page Authoring, Python, Boolean Logic & Circuit Analysis, Network Diagnostics (Wireshark, Ping, Netstat).</p>
+<p><b>Soft Skills:</b> Team Leadership, Disciplined Time Management, Strategic Communication, Collaboration under Pressure.</p>
+
+<hr>
+
+<!-- Profile Link & Image -->
+<h2>Connect & Profile</h2>
+<p>Explore my academic projects and code repositories on my <a href="https://github.com/nilebrowne/comp0001-lab1" target="_blank">Nile Browne GitHub Profile</a>.</p>
+
+<div>
+<img src="nile-browne-profile.jpg" alt="Profile photo of Nile Browne, student-athlete at UWI Five Islands" width="180">
+</div>
+
+</body>
+</html>
